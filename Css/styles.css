@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/* header part starts */
+.header{
+    background: linear-gradient(180.00deg, rgb(17, 17, 17),rgba(119, 119, 119, 0) 100%);
+}
+.hamburger{
+    width: 24px;
+height: 24px;
+}
+.header-nav{
+    display: flex ;
+    
+}
+/* header part ends  */
